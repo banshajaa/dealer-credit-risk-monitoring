@@ -88,7 +88,7 @@ To build a credit risk monitoring system that analyzes dealer exposure and ident
 - Portfolio utilization highlights early warning signals before actual credit breaches occur  
 
 ## Tableau Dashboard
-[Add your Tableau Public link here]
+https://public.tableau.com/views/DealerCreditRiskMonitoringDashboard/DealerCreditRiskMonitoring?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Project Structure
 - `data/` → Raw dataset  
