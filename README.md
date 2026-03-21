@@ -1,4 +1,4 @@
-# dealer-credit-risk-monitoring
+# Dealer Credit Risk Monitoring
 Dealer credit exposure monitoring using percentile-based segmentation and Tableau dashboard
 
 ## Business Problem
