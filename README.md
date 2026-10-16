@@ -109,9 +109,9 @@ No predefined limits existed, so system limits were derived from the buckets:
 
 ## Project Structure
 
-- `data/`: raw dataset
-- `excel/`: data processing and risk logic
-- `dashboard/`: Tableau dashboard
+- `data/raw_dataset.txt`: raw dataset (Global Superstore sales data)
+- `excel/dealer_credit_risk_monitoring.xlsx`: data processing, percentile calculations and risk logic
+- `dashboard/dealer_credit_risk_monitoring_dashboard.twbx`: Tableau workbook (see also the live link and screenshot above)
 
 ## Notes
 
