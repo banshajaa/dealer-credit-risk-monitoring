@@ -3,7 +3,9 @@
 Dealer credit exposure monitoring using percentile-based segmentation, a utilisation-based risk flag and a Tableau dashboard.
 
 **Live dashboard:** [Tableau Public](https://public.tableau.com/views/DealerCreditRiskMonitoringDashboard/DealerCreditRiskMonitoring)
+
    ![Dashboard](dashboard/dashboard.png)
+
 
 ## Business Problem
 
