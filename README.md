@@ -4,6 +4,7 @@ Dealer credit exposure monitoring using percentile-based segmentation, a utilisa
 
 **Live dashboard:** [Tableau Public](https://public.tableau.com/views/DealerCreditRiskMonitoringDashboard/DealerCreditRiskMonitoring)
 
+
    ![Dashboard](dashboard/dashboard.png)
 
 
